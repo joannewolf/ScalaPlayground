@@ -44,6 +44,6 @@ object noReturnExample {
     println(foo2) // boo!
 
     println(bar1(12))
-    println(bar2(12))
+    println(bar2(12)) // boo!
   }
 }
